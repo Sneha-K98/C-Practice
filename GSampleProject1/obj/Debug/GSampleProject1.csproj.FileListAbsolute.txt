@@ -1,0 +1,7 @@
+D:\specialization_phase\GSampleSolution1\GSampleProject1\bin\Debug\GSampleProject1.exe.config
+D:\specialization_phase\GSampleSolution1\GSampleProject1\bin\Debug\GSampleProject1.exe
+D:\specialization_phase\GSampleSolution1\GSampleProject1\bin\Debug\GSampleProject1.pdb
+D:\specialization_phase\GSampleSolution1\GSampleProject1\obj\Debug\GSampleProject1.csprojAssemblyReference.cache
+D:\specialization_phase\GSampleSolution1\GSampleProject1\obj\Debug\GSampleProject1.csproj.CoreCompileInputs.cache
+D:\specialization_phase\GSampleSolution1\GSampleProject1\obj\Debug\GSampleProject1.exe
+D:\specialization_phase\GSampleSolution1\GSampleProject1\obj\Debug\GSampleProject1.pdb

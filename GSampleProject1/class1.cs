@@ -1,0 +1,17 @@
+sing System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GSampleProject1
+{
+    class class1
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("hello world!!");
+            Console.ReadKey();
+        }
+    }
+}
